@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+.col-md-4 {
+    margin-top: 0.5em;
+    text-align: center;
+    font-family: 'Helvetica';   
+    color:rgb(241, 252, 255);
+    
+}   
+
+.col-md-12 {
+    margin-top: 18em;
+    text-align: center;
+    font-family: 'Caveat';   
+    color:rgb(241, 252, 255);
+}
+
+.col-md-12 h1 {
+    line-height: 1em;
+    font-size: 19em;
+}
+
+.col-md-12 h2 {
+    line-height: 0.9em;
+    font-size: 3.6em;
+}
+
+#box {
+    position: absolute;
+    width: 102%;
+    height: 11em;
+}
+
+#box img {
+    width: 100%;
+    height: 100%;
+    opacity: 0.5    ;
+}
+
+#video {
+    position: fixed;
+    width: 100%;
+}
+
+
+
